@@ -1,0 +1,3 @@
+event_type,axis,start_index,end_index,duration_seconds,residual_target
+ALERT,Axis #2,2200,2207,13.4693271133101,28.46121210274473
+ERROR,Axis #2,5000,5007,12.971024036794915,41.83681011573472
